@@ -1,0 +1,41 @@
+*{
+    font-family: 'Times New Roman', Georgia, serif;
+    text-align: center;
+    background-color: rgb(255, 227, 184);
+}
+
+body {
+    margin: 100px 100px 200px;
+}
+
+.h1-head {
+    font-size: 400%;
+    font-weight: bold;
+    color: rgb(122, 77, 9);
+    margin: 0 auto 100px;
+}
+
+.h2-head {
+    font-size: 200%;
+    font-weight: bold;
+    color: rgb(177, 140, 37);
+}
+
+.h3-head {
+    font-size: 160%;
+    color: rgb(177, 140, 37);
+}
+
+.h4-head {
+    font-size: 115%;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.link {
+    font-weight: 800;
+    margin: 20px 30%;
+}
